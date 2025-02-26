@@ -1,9 +1,10 @@
 div{
-    background-color: rgb(160, 151, 169);
+    background-color: rgb(193, 172, 214);
     margin-bottom: 8;
     font-size: large;
 }
-.Football{
-    background-color: none;
-}
 
+#update{
+   
+    font-style: italic;
+}
